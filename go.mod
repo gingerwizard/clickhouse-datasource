@@ -1,14 +1,14 @@
 module github.com/grafana/clickhouse-datasource
 
 go 1.21
-toolchain go1.22.4
+toolchain go1.22.5
 
 require (
 	dagger.io/dagger v0.11.9
 	github.com/ClickHouse/clickhouse-go/v2 v2.26.0
 	github.com/docker/docker v27.0.3+incompatible
 	github.com/docker/go-units v0.5.0
-	github.com/grafana/grafana-plugin-sdk-go v0.237.0
+	github.com/grafana/grafana-plugin-sdk-go v0.238.0
 	github.com/grafana/sqlds/v3 v3.4.2
 	github.com/paulmach/orb v0.11.1
 	github.com/pkg/errors v0.9.1
