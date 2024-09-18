@@ -4,7 +4,7 @@ go 1.21
 toolchain go1.22.5
 
 require (
-	dagger.io/dagger v0.13.0
+	dagger.io/dagger v0.13.1
 	github.com/ClickHouse/clickhouse-go/v2 v2.28.3
 	github.com/docker/docker v27.2.1+incompatible
 	github.com/docker/go-units v0.5.0
@@ -21,7 +21,7 @@ require (
 require (
 	github.com/99designs/gqlgen v0.17.49 // indirect
 	github.com/Khan/genqlient v0.7.0 // indirect
-	github.com/adrg/xdg v0.4.0 // indirect
+	github.com/adrg/xdg v0.5.0 // indirect
 	github.com/apache/arrow/go/v15 v15.0.2 // indirect
 	github.com/containerd/log v0.1.0 // indirect
 	github.com/containerd/platforms v0.2.1 // indirect
@@ -86,7 +86,7 @@ require (
 	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/gorilla/mux v1.8.1 // indirect
-	github.com/grpc-ecosystem/grpc-gateway/v2 v2.20.0 // indirect
+	github.com/grpc-ecosystem/grpc-gateway/v2 v2.22.0 // indirect
 	github.com/hashicorp/go-hclog v1.6.3 // indirect
 	github.com/hashicorp/go-plugin v1.6.1 // indirect
 	github.com/hashicorp/yamux v0.1.1 // indirect
@@ -161,9 +161,9 @@ require (
 	golang.org/x/text v0.18.0 // indirect
 	golang.org/x/tools v0.22.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
-	google.golang.org/genproto/googleapis/api v0.0.0-20240822170219-fc7c04adadcd // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20240814211410-ddb44dafa142 // indirect
-	google.golang.org/grpc v1.66.0 // indirect
+	google.golang.org/genproto/googleapis/api v0.0.0-20240903143218-8af14fe29dc1 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20240903143218-8af14fe29dc1 // indirect
+	google.golang.org/grpc v1.66.1 // indirect
 	google.golang.org/protobuf v1.34.2 // indirect
 	gopkg.in/fsnotify/fsnotify.v1 v1.4.7 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
