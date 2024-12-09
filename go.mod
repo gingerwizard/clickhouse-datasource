@@ -4,7 +4,7 @@ go 1.21
 require (
 	dagger.io/dagger v0.14.0
 	github.com/ClickHouse/clickhouse-go/v2 v2.30.0
-	github.com/docker/docker v27.3.1+incompatible
+	github.com/docker/docker v27.4.0+incompatible
 	github.com/docker/go-units v0.5.0
 	github.com/grafana/grafana-plugin-sdk-go v0.260.1
 	github.com/grafana/sqlds/v3 v3.4.2
