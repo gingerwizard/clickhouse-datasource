@@ -4,7 +4,7 @@ go 1.21
 toolchain go1.22.10
 
 require (
-	dagger.io/dagger v0.14.0
+	dagger.io/dagger v0.15.0
 	github.com/ClickHouse/clickhouse-go/v2 v2.30.0
 	github.com/docker/docker v27.4.0+incompatible
 	github.com/docker/go-units v0.5.0
@@ -19,9 +19,9 @@ require (
 )
 
 require (
-	github.com/99designs/gqlgen v0.17.55 // indirect
+	github.com/99designs/gqlgen v0.17.57 // indirect
 	github.com/Khan/genqlient v0.7.0 // indirect
-	github.com/adrg/xdg v0.5.1 // indirect
+	github.com/adrg/xdg v0.5.3 // indirect
 	github.com/apache/arrow-go/v18 v18.0.1-0.20241204174348-9d44f3448718 // indirect
 	github.com/containerd/log v0.1.0 // indirect
 	github.com/containerd/platforms v0.2.1 // indirect
@@ -42,7 +42,7 @@ require (
 	github.com/moby/sys/userns v0.1.0 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/sosodev/duration v1.3.1 // indirect
-	github.com/vektah/gqlparser/v2 v2.5.17 // indirect
+	github.com/vektah/gqlparser/v2 v2.5.19 // indirect
 	github.com/zeebo/xxh3 v1.0.2 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.57.0 // indirect
 	go.opentelemetry.io/contrib/samplers/jaegerremote v0.26.0 // indirect
