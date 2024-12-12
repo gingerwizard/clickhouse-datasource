@@ -4,7 +4,7 @@ go 1.21
 toolchain go1.22.10
 
 require (
-	dagger.io/dagger v0.15.0
+	dagger.io/dagger v0.15.1
 	github.com/ClickHouse/clickhouse-go/v2 v2.30.0
 	github.com/docker/docker v27.4.0+incompatible
 	github.com/docker/go-units v0.5.0
