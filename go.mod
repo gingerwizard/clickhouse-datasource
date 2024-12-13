@@ -8,7 +8,7 @@ require (
 	github.com/ClickHouse/clickhouse-go/v2 v2.30.0
 	github.com/docker/docker v27.4.0+incompatible
 	github.com/docker/go-units v0.5.0
-	github.com/grafana/grafana-plugin-sdk-go v0.260.2
+	github.com/grafana/grafana-plugin-sdk-go v0.260.3
 	github.com/grafana/sqlds/v3 v3.4.2
 	github.com/paulmach/orb v0.11.1
 	github.com/pkg/errors v0.9.1
@@ -22,13 +22,13 @@ require (
 	github.com/99designs/gqlgen v0.17.57 // indirect
 	github.com/Khan/genqlient v0.7.0 // indirect
 	github.com/adrg/xdg v0.5.3 // indirect
-	github.com/apache/arrow-go/v18 v18.0.1-0.20241204174348-9d44f3448718 // indirect
+	github.com/apache/arrow-go/v18 v18.0.1-0.20241212180703-82be143d7c30 // indirect
 	github.com/containerd/log v0.1.0 // indirect
 	github.com/containerd/platforms v0.2.1 // indirect
 	github.com/distribution/reference v0.6.0 // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
-	github.com/goccy/go-json v0.10.3 // indirect
+	github.com/goccy/go-json v0.10.4 // indirect
 	github.com/grafana/dataplane/sdata v0.0.7 // indirect
 	github.com/grafana/otel-profiling-go v0.5.1 // indirect
 	github.com/grafana/pyroscope-go/godeltaprof v0.1.8 // indirect
@@ -161,7 +161,7 @@ require (
 	golang.org/x/sys v0.28.0 // indirect
 	golang.org/x/term v0.27.0 // indirect
 	golang.org/x/text v0.21.0 // indirect
-	golang.org/x/tools v0.27.0 // indirect
+	golang.org/x/tools v0.28.0 // indirect
 	golang.org/x/xerrors v0.0.0-20231012003039-104605ab7028 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20241104194629-dd2ea8efbc28 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20241104194629-dd2ea8efbc28 // indirect
