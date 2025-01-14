@@ -4,7 +4,7 @@ go 1.21
 toolchain go1.22.10
 
 require (
-	dagger.io/dagger v0.15.1
+	dagger.io/dagger v0.15.2
 	github.com/ClickHouse/clickhouse-go/v2 v2.30.0
 	github.com/docker/docker v27.5.0+incompatible
 	github.com/docker/go-units v0.5.0
@@ -42,7 +42,7 @@ require (
 	github.com/moby/sys/userns v0.1.0 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
 	github.com/sosodev/duration v1.3.1 // indirect
-	github.com/vektah/gqlparser/v2 v2.5.19 // indirect
+	github.com/vektah/gqlparser/v2 v2.5.20 // indirect
 	github.com/zeebo/xxh3 v1.0.2 // indirect
 	go.opentelemetry.io/auto/sdk v1.1.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.57.0 // indirect

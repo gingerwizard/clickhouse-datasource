@@ -1,5 +1,5 @@
-dagger.io/dagger v0.15.1 h1:2faeBRf/3gTPGcjcej44fu/V81SIDhu+UjYn3hUJuIE=
-dagger.io/dagger v0.15.1/go.mod h1:orbqkxrktOSvhUr8+Iyl9sRfjENvkX/Vdo31b2ers5c=
+dagger.io/dagger v0.15.2 h1:G5COMsYcyXJ+Q1Ct4f7lKg8w/z5bAxMOqbZwvJvK+3M=
+dagger.io/dagger v0.15.2/go.mod h1:DxLs1ql/WDjHIUs6Pyk9yJ9GHG5sRQfotjyqy2PbfR8=
 dario.cat/mergo v1.0.0 h1:AGCNq9Evsj31mOgNPcLyXc+4PNABt905YmuqPYYpBWk=
 dario.cat/mergo v1.0.0/go.mod h1:uNxQE+84aUszobStD9th8a29P2fMDhsBdgRYvZOxGmk=
 github.com/99designs/gqlgen v0.17.57 h1:Ak4p60BRq6QibxY0lEc0JnQhDurfhxA67sp02lMjmPc=
@@ -335,8 +335,8 @@ github.com/unknwon/log v0.0.0-20200308114134-929b1006e34a/go.mod h1:1xEUf2abjfP9
 github.com/urfave/cli v1.22.1/go.mod h1:Gos4lmkARVdJ6EkW0WaNv/tZAAMe9V7XWyB60NtXRu0=
 github.com/urfave/cli v1.22.16 h1:MH0k6uJxdwdeWQTwhSO42Pwr4YLrNLwBtg1MRgTqPdQ=
 github.com/urfave/cli v1.22.16/go.mod h1:EeJR6BKodywf4zciqrdw6hpCPk68JO9z5LazXZMn5Po=
-github.com/vektah/gqlparser/v2 v2.5.19 h1:bhCPCX1D4WWzCDvkPl4+TP1N8/kLrWnp43egplt7iSg=
-github.com/vektah/gqlparser/v2 v2.5.19/go.mod h1:y7kvl5bBlDeuWIvLtA9849ncyvx6/lj06RsMrEjVy3U=
+github.com/vektah/gqlparser/v2 v2.5.20 h1:kPaWbhBntxoZPaNdBaIPT1Kh0i1b/onb5kXgEdP5JCo=
+github.com/vektah/gqlparser/v2 v2.5.20/go.mod h1:xMl+ta8a5M1Yo1A1Iwt/k7gSpscwSnHZdw7tfhEGfTM=
 github.com/xdg-go/pbkdf2 v1.0.0/go.mod h1:jrpuAogTd400dnrH08LKmI/xc1MbPOebTwRqcT5RDeI=
 github.com/xdg-go/scram v1.1.1/go.mod h1:RaEWvsqvNKKvBPvcKeFjrG2cJqOkHTiyTpzz23ni57g=
 github.com/xdg-go/stringprep v1.0.3/go.mod h1:W3f5j4i+9rC0kuIEJL0ky1VpHXQU3ocBgklLGvcBnW8=
