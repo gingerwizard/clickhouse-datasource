@@ -4,7 +4,7 @@ go 1.21
 toolchain go1.23.6
 
 require (
-	dagger.io/dagger v0.16.1
+	dagger.io/dagger v0.16.2
 	github.com/ClickHouse/clickhouse-go/v2 v2.32.2
 	github.com/docker/docker v28.0.1+incompatible
 	github.com/docker/go-units v0.5.0
@@ -19,8 +19,8 @@ require (
 )
 
 require (
-	github.com/99designs/gqlgen v0.17.63 // indirect
-	github.com/Khan/genqlient v0.7.0 // indirect
+	github.com/99designs/gqlgen v0.17.66 // indirect
+	github.com/Khan/genqlient v0.8.0 // indirect
 	github.com/adrg/xdg v0.5.3 // indirect
 	github.com/apache/arrow-go/v18 v18.0.1-0.20241212180703-82be143d7c30 // indirect
 	github.com/containerd/log v0.1.0 // indirect
@@ -44,7 +44,7 @@ require (
 	github.com/oasdiff/yaml v0.0.0-20241210131133-6b86fb107d80 // indirect
 	github.com/oasdiff/yaml3 v0.0.0-20241210130736-a94c01f36349 // indirect
 	github.com/sosodev/duration v1.3.1 // indirect
-	github.com/vektah/gqlparser/v2 v2.5.21 // indirect
+	github.com/vektah/gqlparser/v2 v2.5.22 // indirect
 	github.com/zeebo/xxh3 v1.0.2 // indirect
 	go.opentelemetry.io/auto/sdk v1.1.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.59.0 // indirect
@@ -104,7 +104,7 @@ require (
 	github.com/magiconair/properties v1.8.7 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mattetti/filebuffer v1.0.1 // indirect
-	github.com/mattn/go-colorable v0.1.13 // indirect
+	github.com/mattn/go-colorable v0.1.14 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mattn/go-runewidth v0.0.9 // indirect
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
