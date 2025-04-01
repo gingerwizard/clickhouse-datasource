@@ -13,8 +13,8 @@ github.com/BurntSushi/toml v1.4.0 h1:kuoIxZQy2WRRk1pttg9asf+WVv6tWQuBNVmK8+nqPr0
 github.com/BurntSushi/toml v1.4.0/go.mod h1:ukJfTF/6rtPPRCnwkur4qwRxa8vTRFBF0uk2lLoLwho=
 github.com/ClickHouse/ch-go v0.65.1 h1:SLuxmLl5Mjj44/XbINsK2HFvzqup0s6rwKLFH347ZhU=
 github.com/ClickHouse/ch-go v0.65.1/go.mod h1:bsodgURwmrkvkBe5jw1qnGDgyITsYErfONKAHn05nv4=
-github.com/ClickHouse/clickhouse-go/v2 v2.33.1 h1:Z5nO/AnmUywcw0AvhAD0M1C2EaMspnXRK9vEOLxgmI0=
-github.com/ClickHouse/clickhouse-go/v2 v2.33.1/go.mod h1:cb1Ss8Sz8PZNdfvEBwkMAdRhoyB6/HiB6o3We5ZIcE4=
+github.com/ClickHouse/clickhouse-go/v2 v2.34.0 h1:Y4rqkdrRHgExvC4o/NTbLdY5LFQ3LHS77/RNFxFX3Co=
+github.com/ClickHouse/clickhouse-go/v2 v2.34.0/go.mod h1:yioSINoRLVZkLyDzdMXPLRIqhDvel8iLBlwh6Iefso8=
 github.com/Khan/genqlient v0.8.0 h1:Hd1a+E1CQHYbMEKakIkvBH3zW0PWEeiX6Hp1i2kP2WE=
 github.com/Khan/genqlient v0.8.0/go.mod h1:hn70SpYjWteRGvxTwo0kfaqg4wxvndECGkfa1fdDdYI=
 github.com/Microsoft/go-winio v0.6.2 h1:F2VQgta7ecxGYO8k3ZZz3RS8fVIXVxONVUPlNERoyfY=
