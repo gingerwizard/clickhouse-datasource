@@ -6,7 +6,7 @@ require (
 	github.com/ClickHouse/clickhouse-go/v2 v2.34.0
 	github.com/docker/docker v28.0.4+incompatible
 	github.com/docker/go-units v0.5.0
-	github.com/grafana/grafana-plugin-sdk-go v0.276.0
+	github.com/grafana/grafana-plugin-sdk-go v0.277.0
 	github.com/grafana/sqlds/v3 v3.4.2
 	github.com/paulmach/orb v0.11.1
 	github.com/pkg/errors v0.9.1
