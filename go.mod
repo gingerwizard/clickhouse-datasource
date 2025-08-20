@@ -3,7 +3,7 @@ module github.com/grafana/clickhouse-datasource
 go 1.24.1
 
 require (
-	dagger.io/dagger v0.18.15
+	dagger.io/dagger v0.18.16
 	github.com/ClickHouse/clickhouse-go/v2 v2.40.1
 	github.com/docker/docker v28.3.3+incompatible
 	github.com/docker/go-units v0.5.0
