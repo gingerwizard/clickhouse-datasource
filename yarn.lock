@@ -2061,6 +2061,15 @@
     tslib "2.8.1"
     typescript "5.8.3"
 
+"@grafana/e2e-selectors@12.2.0":
+  version "12.2.0"
+  resolved "https://registry.yarnpkg.com/@grafana/e2e-selectors/-/e2e-selectors-12.2.0.tgz#5b49257725594cbb8947e32d4300f7e2038f7954"
+  integrity sha512-kN7quD7MqoFTdL4Np1gZEmaVEm5YkBLzoUGIVzRK5v2CRGCQYaMM2crlU09NeVETXlTDa0VptEZcfeYsy/f87Q==
+  dependencies:
+    semver "^7.7.0"
+    tslib "2.8.1"
+    typescript "5.9.2"
+
 "@grafana/e2e@11.0.7":
   version "11.0.7"
   resolved "https://registry.yarnpkg.com/@grafana/e2e/-/e2e-11.0.7.tgz#212015b49aa243405bd1fcdbf33e13395e655dc4"
@@ -10871,6 +10880,11 @@ typescript@5.8.3:
   version "5.8.3"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.8.3.tgz#92f8a3e5e3cf497356f4178c34cd65a7f5e8440e"
   integrity sha512-p1diW6TqL9L07nNxvRMM7hMMw4c5XOo/1ibL4aAIGmSAt9slTE1Xgw5KWuof2uTOvCg9BY7ZRi+GaF+7sfgPeQ==
+
+typescript@5.9.2:
+  version "5.9.2"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-5.9.2.tgz#d93450cddec5154a2d5cabe3b8102b83316fb2a6"
+  integrity sha512-CWBzXQrc/qOkhidw1OzBTQuYRbfyxDXJMVJ1XNwUHGROVmuaeiEm3OslpZ1RV96d7SKKjZKrSJu3+t/xlw3R9A==
 
 typescript@^4.8.4:
   version "4.9.5"
