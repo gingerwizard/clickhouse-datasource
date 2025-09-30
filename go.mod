@@ -3,7 +3,7 @@ module github.com/grafana/clickhouse-datasource
 go 1.24.6
 
 require (
-	dagger.io/dagger v0.18.19
+	dagger.io/dagger v0.19.0
 	github.com/ClickHouse/clickhouse-go/v2 v2.40.3
 	github.com/docker/docker v28.4.0+incompatible
 	github.com/docker/go-units v0.5.0
@@ -18,7 +18,7 @@ require (
 )
 
 require (
-	github.com/99designs/gqlgen v0.17.79 // indirect
+	github.com/99designs/gqlgen v0.17.80 // indirect
 	github.com/Khan/genqlient v0.8.1 // indirect
 	github.com/adrg/xdg v0.5.3 // indirect
 	github.com/apache/arrow-go/v18 v18.4.0 // indirect
