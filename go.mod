@@ -3,7 +3,7 @@ module github.com/grafana/clickhouse-datasource
 go 1.24.6
 
 require (
-	dagger.io/dagger v0.19.2
+	dagger.io/dagger v0.19.3
 	github.com/ClickHouse/clickhouse-go/v2 v2.40.3
 	github.com/docker/docker v28.5.1+incompatible
 	github.com/docker/go-units v0.5.0
@@ -18,7 +18,7 @@ require (
 )
 
 require (
-	github.com/99designs/gqlgen v0.17.80 // indirect
+	github.com/99designs/gqlgen v0.17.81 // indirect
 	github.com/Khan/genqlient v0.8.1 // indirect
 	github.com/adrg/xdg v0.5.3 // indirect
 	github.com/apache/arrow-go/v18 v18.4.1 // indirect
@@ -165,7 +165,7 @@ require (
 	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20250825161204-c5933d9347a5 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20251002232023-7c0ddcbb5797 // indirect
-	google.golang.org/grpc v1.75.1 // indirect
+	google.golang.org/grpc v1.76.0 // indirect
 	google.golang.org/protobuf v1.36.10 // indirect
 	gopkg.in/fsnotify/fsnotify.v1 v1.4.7 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
