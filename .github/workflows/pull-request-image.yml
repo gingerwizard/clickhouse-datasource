@@ -44,7 +44,7 @@ jobs:
           NODE_OPTIONS: '--max_old_space_size=4096'
 
       - name: Archive plugin build artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: plugin-dist
           path: |
@@ -114,7 +114,7 @@ jobs:
         run: docker save -o ${{ github.event.pull_request.head.sha }}pre.tar grafana/plugin-builds:${{ github.event.pull_request.head.sha }}pre
 
       - name: Archive Docker image
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: ${{ github.event.pull_request.head.sha }}pre
           path: ${{ github.event.pull_request.head.sha }}pre.tar
