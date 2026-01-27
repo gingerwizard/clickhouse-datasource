@@ -8751,10 +8751,10 @@ performance-now@^2.1.0:
   resolved "https://registry.yarnpkg.com/performance-now/-/performance-now-2.1.0.tgz#6309f4e0e5fa913ec1c69307ae364b4b377c9e7b"
   integrity sha512-7EAHlyLHI56VEIdK57uwHdHKIaAGbnXPiw0yWbarQZOKaKpvUIgW0jWRVLiatnM+XXlSwsanIBH/hzGMJulMow==
 
-pgsql-ast-parser@^12.0.1:
-  version "12.0.1"
-  resolved "https://registry.yarnpkg.com/pgsql-ast-parser/-/pgsql-ast-parser-12.0.1.tgz#7b9d9880cb62df4b4c595c258b8e7a4b5f44ce53"
-  integrity sha512-pe8C6Zh5MsS+o38WlSu18NhrTjAv1UNMeDTs2/Km2ZReZdYBYtwtbWGZKK2BM2izv5CrQpbmP0oI10wvHOwv4A==
+pgsql-ast-parser@^12.0.2:
+  version "12.0.2"
+  resolved "https://registry.yarnpkg.com/pgsql-ast-parser/-/pgsql-ast-parser-12.0.2.tgz#b69a7c10b8078a7413c2d660fae0500543a0d080"
+  integrity sha512-1WWa96Sw6h4uv9GLw98EzH/+xoBTC8j2TwV/AMW3E+Ir/fHOu/jLLbj6kPiz3y2bGISTKNYvKWwHoqvQ5FLuAw==
   dependencies:
     moo "^0.5.1"
     nearley "^2.19.5"
