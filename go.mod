@@ -1,13 +1,13 @@
 module github.com/grafana/clickhouse-datasource
 
-go 1.25.6
+go 1.25.7
 
 require (
 	dagger.io/dagger v0.20.1
 	github.com/ClickHouse/clickhouse-go/v2 v2.43.0
 	github.com/docker/docker v28.5.2+incompatible
 	github.com/docker/go-units v0.5.0
-	github.com/grafana/grafana-plugin-sdk-go v0.289.0
+	github.com/grafana/grafana-plugin-sdk-go v0.290.0
 	github.com/grafana/sqlds/v3 v3.4.2
 	github.com/paulmach/orb v0.12.0
 	github.com/pkg/errors v0.9.1
@@ -59,8 +59,8 @@ require (
 	github.com/vektah/gqlparser/v2 v2.5.30 // indirect
 	github.com/zeebo/xxh3 v1.0.2 // indirect
 	go.opentelemetry.io/auto/sdk v1.2.1 // indirect
-	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.64.0 // indirect
-	go.opentelemetry.io/contrib/samplers/jaegerremote v0.33.0 // indirect
+	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.65.0 // indirect
+	go.opentelemetry.io/contrib/samplers/jaegerremote v0.34.0 // indirect
 	go.yaml.in/yaml/v2 v2.4.3 // indirect
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
 	golang.org/x/sync v0.19.0 // indirect
@@ -143,12 +143,12 @@ require (
 	github.com/unknwon/log v0.0.0-20200308114134-929b1006e34a // indirect
 	github.com/urfave/cli v1.22.17 // indirect
 	github.com/yusufpapurcu/wmi v1.2.4 // indirect
-	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.64.0 // indirect
-	go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.64.0 // indirect
-	go.opentelemetry.io/contrib/propagators/jaeger v1.39.0 // indirect
+	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.65.0 // indirect
+	go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.65.0 // indirect
+	go.opentelemetry.io/contrib/propagators/jaeger v1.40.0 // indirect
 	go.opentelemetry.io/otel v1.41.0 // indirect
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.41.0 // indirect
-	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.39.0 // indirect
+	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.40.0 // indirect
 	go.opentelemetry.io/otel/metric v1.41.0 // indirect
 	go.opentelemetry.io/otel/sdk v1.41.0 // indirect
 	go.opentelemetry.io/otel/trace v1.41.0 // indirect
