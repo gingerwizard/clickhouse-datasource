@@ -3,7 +3,7 @@ module github.com/grafana/clickhouse-datasource
 go 1.25.7
 
 require (
-	dagger.io/dagger v0.20.3
+	dagger.io/dagger v0.20.5
 	github.com/ClickHouse/clickhouse-go/v2 v2.44.0
 	github.com/docker/docker v28.5.2+incompatible
 	github.com/docker/go-units v0.5.0
@@ -18,7 +18,7 @@ require (
 )
 
 require (
-	github.com/99designs/gqlgen v0.17.81 // indirect
+	github.com/99designs/gqlgen v0.17.89 // indirect
 	github.com/Khan/genqlient v0.8.1 // indirect
 	github.com/adrg/xdg v0.5.3 // indirect
 	github.com/apache/arrow-go/v18 v18.5.2 // indirect
@@ -54,8 +54,8 @@ require (
 	github.com/olekukonko/ll v0.1.6 // indirect
 	github.com/patrickmn/go-cache v2.1.0+incompatible // indirect
 	github.com/shirou/gopsutil/v4 v4.26.2 // indirect
-	github.com/sosodev/duration v1.3.1 // indirect
-	github.com/vektah/gqlparser/v2 v2.5.30 // indirect
+	github.com/sosodev/duration v1.4.0 // indirect
+	github.com/vektah/gqlparser/v2 v2.5.32 // indirect
 	github.com/zeebo/xxh3 v1.1.0 // indirect
 	go.opentelemetry.io/auto/sdk v1.2.1 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.67.0 // indirect
