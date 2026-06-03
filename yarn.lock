@@ -2072,6 +2072,15 @@
     tslib "2.8.1"
     typescript "5.9.2"
 
+"@grafana/e2e-selectors@13.0.2":
+  version "13.0.2"
+  resolved "https://registry.yarnpkg.com/@grafana/e2e-selectors/-/e2e-selectors-13.0.2.tgz#eceb9369c7e8f53dea5ca42045863590244e797c"
+  integrity sha512-XQvEVuz9PxW4oG/yJns7EjFS2cVU2UcbwTX1XqYJs4X7KCtpMvs9VpjqOa6wNuUnbhgKqgEOEGXiW2FnPNNBwg==
+  dependencies:
+    semver "^7.7.0"
+    tslib "2.8.1"
+    typescript "5.9.2"
+
 "@grafana/e2e@11.0.7":
   version "11.0.7"
   resolved "https://registry.yarnpkg.com/@grafana/e2e/-/e2e-11.0.7.tgz#212015b49aa243405bd1fcdbf33e13395e655dc4"
